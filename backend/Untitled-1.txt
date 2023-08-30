@@ -1,0 +1,8 @@
+mongodb+srv://korero:<password>@cluster0.xqfulri.mongodb.net/?retryWrites=true&w=majority
+
+korero
+568Mkorero
+
+
+
+mongodb+srv://korero:<password>@cluster0.w9jb7js.mongodb.net/?retryWrites=true&w=majority
